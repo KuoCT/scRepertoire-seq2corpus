@@ -1,5 +1,5 @@
 # scRepertoire-seq2corpus
-This repository provides code to parse scRepertoire-seq data, merge the results into a Seurat object, and generate language-based AI-trainable data for the MatuRL model as described in "AI-guided scFv engineering enhances T cell-specific cytotoxicity toward cancer cells".
+This repository provides code to parse scRepertoire-seq data, merge the results into a Seurat object, and generate language-based AI-trainable data for the MatuRL model as described in "*AI-guided scFv engineering enhances T cell-specific cytotoxicity toward cancer cells*".
 
 ## Flowchart
 ![flow_chart](./flow_chart.png)
@@ -27,3 +27,5 @@ Sequencing reads were processed with Cell Ranger v8.0.1 in VDJ mode with de novo
 
 ## Full code asscessablity
 Full code is upon request (patent considerations), please contact the corresponding author of this paper.
+
+Chia-Wei Li, Institute of Biomedical Sciences, Academia Sinica, 128 Academia Rd., Sec. 2, Taipei 11529, Taiwan, Tel: +886-2-26523912. Fax: +886-2-27829224. E-mail: cwli@ibms.sinica.edu.tw.
