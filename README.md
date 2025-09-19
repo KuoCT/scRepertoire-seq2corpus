@@ -1,5 +1,5 @@
 # scRepertoire-seq2corpus
-This repository provides code to parse scRepertoire-seq data, join the results to a Seurat object, and generate language-based AI-trainable data.
+This repository provides code to parse scRepertoire-seq data, merge the results into a Seurat object, and generate language-based AI-trainable data for the MatuRL model as described in "AI-guided scFv engineering enhances T cell-specific cytotoxicity toward cancer cells".
 
 ## Flowchart
 ![flow_chart](./flow_chart.png)
