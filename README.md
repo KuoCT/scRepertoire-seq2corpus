@@ -26,6 +26,6 @@ This repository provides code to parse scRepertoire-seq data, integrate the outp
 Sequencing reads were processed with Cell Ranger v8.0.1 in VDJ mode with de novo assembly enabled (--denovo) and custom inner enrichment primers specified (--inner-enrichment-primers) to generate full-length contigs. The contigs then underwent multiple quality control steps, including filters on sequence quality, length, and the presence of expected structural features. Specifically, contigs were screened by BLAST alignment to Myc-tag and 3'-tail sequences, by length constraints, and by linker sequence identification. High-confidence contigs were translated into amino acid sequences. The resulting scFv information was mapped to the corresponding single-cell barcodes and integrated into the Seurat object metadata. The multimodal dataset, which combines transcriptomic and scFv sequence features at single-cell resolution, was then used to train deep learning models.
 
 ## Full scFvs data accessibility
-Full scFvs data available upon request due to patent considerations. Please contact the corresponding author of this paper.
-
+Full scFvs data available upon request due to patent considerations.  
+Please contact the corresponding author of this paper:
 Chia-Wei Li, Institute of Biomedical Sciences, Academia Sinica, 128 Academia Rd., Sec. 2, Taipei 11529, Taiwan, Tel: +886-2-26523912. Fax: +886-2-27829224. Email: cwli@ibms.sinica.edu.tw.
