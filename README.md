@@ -27,5 +27,5 @@ Sequencing reads were processed with Cell Ranger v8.0.1 in VDJ mode with de novo
 
 ## Full scFvs data accessibility
 Full scFvs data available upon request due to patent considerations.  
-Please contact the corresponding author of this paper:
+Please contact the corresponding author of this paper:  
 Chia-Wei Li, Institute of Biomedical Sciences, Academia Sinica, 128 Academia Rd., Sec. 2, Taipei 11529, Taiwan, Tel: +886-2-26523912. Fax: +886-2-27829224. Email: cwli@ibms.sinica.edu.tw.
